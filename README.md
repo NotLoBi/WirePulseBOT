@@ -3,11 +3,11 @@
     <h1>WirePulseBOT</h1>
 </div>
 
----
-
 <br>
 
 **WirePulseBOT is a Python-based scraping tool designed for automatically searching information from various news websites, performing Social Media Intelligence (SOCMINT), or conducting research that requires scraping search engines.**
+
+<br>
 
 > *It is highly customizable, making it ideal for researchers, journalists, OSINT experts, or anyone looking to gather data from the web.*
 
