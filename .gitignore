@@ -1,0 +1,7 @@
+__pycache__/
+tests/
+test.*
+results/*.json
+.venv/
+*_old.*
+*.pyc

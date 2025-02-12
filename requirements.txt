@@ -1,0 +1,5 @@
+pyyaml
+beautifulsoup4
+urllib3
+colorama
+playwright
